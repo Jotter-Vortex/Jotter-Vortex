@@ -8,7 +8,7 @@
 💞️ I’m looking to collaborate on ...   
 📫 How to reach me ... (+82) 010 6814 9809   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotter-Vortex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
