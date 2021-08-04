@@ -3,7 +3,7 @@
 | ------ | ------ |
 | Instagram | [https://www.instagram.com/masa_oooo0/][PlDb] |
 | changjin | [changjin.me][PlGh] |
-
+| | |
 - 👋 Hi, I’m @Jotter-Vortex
 - 👀 I’m interested in ... Deep Learing, 3D Modeling
 - 🌱 I’m currently learning ... blender, go, React, unreal engine
