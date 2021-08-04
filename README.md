@@ -37,13 +37,16 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
-</div>
 
 | | |
 | ------ | ------ |
 | Instagram | [https://www.instagram.com/masa_oooo0/] |
 | AboutMe | [http://changjin.me/blog_about] |
 | | |
+
+</div>
+
+
 
 
 
