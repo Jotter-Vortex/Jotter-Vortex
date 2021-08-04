@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unreal-313131?style=flat-square&logo=unreal&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 
 <!---
 Jotter-Vortex/Jotter-Vortex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
