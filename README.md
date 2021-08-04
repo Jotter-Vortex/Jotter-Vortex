@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft Azure-078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicrosoftAzure-078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>
