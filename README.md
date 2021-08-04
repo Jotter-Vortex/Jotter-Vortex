@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 
 | | |
 | ------ | ------ |
