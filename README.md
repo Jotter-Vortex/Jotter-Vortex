@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (+82) 010 6814 9809 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 
 <!---
 Jotter-Vortex/Jotter-Vortex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
