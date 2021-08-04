@@ -2,11 +2,11 @@
 <div align="center">
   
   
-👋 Hi, I’m @Jotter-Vortex   
-👀 I’m interested in ... Deep Learing, 3D Modeling   
-🌱 I’m currently learning ... blender, go, React, unreal engine   
-💞️ I’m looking to collaborate on ...   
-📫 How to reach me ... (+82) 010 6814 9809   
+> 👋 Hi, I’m @Jotter-Vortex   
+> 👀 I’m interested in ... Deep Learing, 3D Modeling   
+> 🌱 I’m currently learning ... blender, go, React, unreal engine   
+> 💞️ I’m looking to collaborate on ...   
+> 📫 How to reach me ... (+82) 010 6814 9809   
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
