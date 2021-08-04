@@ -9,6 +9,8 @@
 📫 How to reach me ... (+82) 010 6814 9809   
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotter-Vortex)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotter-Vortex)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
