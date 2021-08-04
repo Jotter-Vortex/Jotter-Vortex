@@ -2,7 +2,7 @@
 | | |
 | ------ | ------ |
 | Instagram | [https://www.instagram.com/masa_oooo0/] |
-| changjin | [https://http://changjin.me/blog_about] |
+| AboutMe | [http://changjin.me/blog_about] |
 | | |
 - 👋 Hi, I’m @Jotter-Vortex
 - 👀 I’m interested in ... Deep Learing, 3D Modeling
