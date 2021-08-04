@@ -8,6 +8,13 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=blender&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/unreal-313131?style=flat-square&logo=unreal&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 
 <!---
 Jotter-Vortex/Jotter-Vortex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
