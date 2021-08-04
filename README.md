@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (+82) 010 6814 9809 
 
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
@@ -29,7 +30,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
-
+</div>
 
 | | |
 | ------ | ------ |
